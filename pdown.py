@@ -1,9 +1,7 @@
 
 
 """
-Simple script to download and write files in Python
-written for IBM Python & Data Science course
-Rodrigo feb 27, 2021
+demonstração Unisinos
 """
 
 import requests
